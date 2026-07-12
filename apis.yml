@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://jikan.moe
 common:
+  - type: DomainSecurity
+    url: security/jikan-domain-security.yml
   - type: Website
     url: https://jikan.moe
   - type: PublicAPIsListing
